@@ -28,7 +28,6 @@ Link to a git repo is easiest, but a zip/tarball is good too.
 
 _The following are not required, but would definitely help set you apart from your competition:_
 
-* Use front end frameworks such as React (unless you are applying for the fontend position; in that case, it's required).
 * Use frontend integration tests (mocha, jasmine, etc.).
 * For super, super bonus points, use some of the patterns from TestRig or fluxxed_up (examples in the boilerplate repo). 
 * Leverage HTML5/css.
