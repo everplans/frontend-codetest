@@ -5,7 +5,7 @@ Using the included design comps, your goal is to create a working version of 'Fa
 
 ## Base Requirements
 
-* Create a high-fidelity version of the FamilySpot main screen, which breaks responsively to mobile width. (As demonstrated in the s ketch file).
+* Create a high-fidelity version of the FamilySpot main screen, which breaks responsively to mobile width. (As demonstrated in the sketch file).
 * When you click the 'Edit Info' button, it launches a live edit modal. Changes to the modal should reflect on the screen after you click 'Save.'
 * Don't worry about session management/account creation/login. It's fine to store data in localstorage, or even a global variable.
 
